@@ -17,3 +17,12 @@ I've compiled and run all the code on ubuntu 11.10, gcc 4.8 linaro on a Freescal
 Licence
 -------
 Do whatever you want but you have no warranty on this code
+
+Some useful links
+-----------------
+guide to arm and assembly
+https://www.scss.tcd.ie/John.Waldron/3d1
+arm official documentation
+http://infocenter.arm.com/help/index.jsp
+other slides
+http://simplemachines.it/doc/arm_inst.pdf
