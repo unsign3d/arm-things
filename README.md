@@ -20,9 +20,7 @@ Do whatever you want but you have no warranty on this code
 
 Some useful links
 -----------------
-guide to arm and assembly
-https://www.scss.tcd.ie/John.Waldron/3d1
-arm official documentation
-http://infocenter.arm.com/help/index.jsp
-other slides
-http://simplemachines.it/doc/arm_inst.pdf
+- guide to arm and assembly https://www.scss.tcd.ie/John.Waldron/3d1
+- arm official documentation http://infocenter.arm.com/help/index.jsp
+- other slides http://simplemachines.it/doc/arm_inst.pdf
+- another great tutorial for beginners http://thinkingeek.com/2013/01/09/arm-assembler-raspberry-pi-chapter-1/
